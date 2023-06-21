@@ -1,0 +1,5 @@
+/node_modules
+.idea
+transactions.txt
+log.txt
+.env
